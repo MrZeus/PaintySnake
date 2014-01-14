@@ -1,4 +1,4 @@
-package javagame; //Made by MrZeus!
+package javagame;
 
 import javax.swing.JFrame;
 
