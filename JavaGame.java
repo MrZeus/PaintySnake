@@ -1,4 +1,4 @@
-package javagame;
+package javagame; // Alpha v1.0
 
 import javax.swing.JFrame;
 
