@@ -1,0 +1,4 @@
+PaintySnake
+===========
+
+A fun game!
